@@ -18,7 +18,7 @@ Sem mais delongas, irei listar aqui de forma bem didática e dinâmica um pouqui
 
 | <img src="https://vuejs.org/images/logo.png" width="30">  |  VueJs Framework  |
 | :---:  | :---:  |
-| <img src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light-text.svg" width="100">  |  Vuetify UI Library  |
+| <img src="https://cdn.vuetifyjs.com/docs/images/frameworks/vuetify.svg" width="30">  |  Vuetify UI Library  |
 | <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="30">  |  Quasar Framework  |
 | <img src="https://nuxtjs.org/logos/nuxtjs-typo.svg" width="100">  |  NuxtJs Framework - SSR  |
  - Desenvolvimento front-end com VueJS:
